@@ -1,15 +1,13 @@
 Include this in your README.md:
 Project Code: WST21-PM-2026-SF
-Student Name:
 
+Student Name:
 Mica Caballes
 
 Course & Year:
-
 BSIT 2nd Year
 
 Database Used: 
-
 SQLite
 
 Features:
